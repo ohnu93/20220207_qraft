@@ -8,3 +8,4 @@
 - createUser : creates a new user. User need first name, last name, email, password, phone_number
 
 ## PART2. AUGMENTED BACKEND AUTH SERVER
+Please refer to attached files on the email for explanation.
